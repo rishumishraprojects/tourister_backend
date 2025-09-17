@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+google-genai
+python-dotenv
+razorpay
+requests
+aiohttp
+asyncio
