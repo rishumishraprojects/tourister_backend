@@ -7,3 +7,4 @@ razorpay
 requests
 aiohttp
 asyncio
+setuptools
